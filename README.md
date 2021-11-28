@@ -1,2 +1,5 @@
 # SK-Media-Info-MP3-Header-Reader__VB6
-Fundamental Pemrograman Visual Basic 6.0 - SK; Media Info MP3 Header Reader
+Fundamental Pemrograman Visual Basic 6.0 - SK; Media Info MP3 Header Reader by Shannon Harmon, MicroTech Computers<br><br>
+<img src="https://github.com/RizkyKhapidsyah/SK-Media-Info-MP3-Header-Reader__VB6/blob/main/result/001.PNG"><br><br>
+Lihat Source Code : <br>
+- <a href="https://github.com/RizkyKhapidsyah/SK-Media-Info-MP3-Header-Reader__VB6">Program</a>
